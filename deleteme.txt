@@ -1,0 +1,2 @@
+assets	config.yml    layout   sections  templates
+config	deleteme.txt  locales  snippets
